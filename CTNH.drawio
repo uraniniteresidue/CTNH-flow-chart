@@ -222,6 +222,9 @@
         <mxCell id="hVVgvd0LLLONm7yzlIF5-42" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="压缩机" vertex="1">
           <mxGeometry height="60" width="119" x="1840" y="650" as="geometry" />
         </mxCell>
+        <mxCell id="Ze34olLxH3gQG4Mn-upq-2" edge="1" parent="1" source="hVVgvd0LLLONm7yzlIF5-45" style="edgeStyle=orthogonalEdgeStyle;rounded=0;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="Ze34olLxH3gQG4Mn-upq-1">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
         <mxCell id="hVVgvd0LLLONm7yzlIF5-45" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="压缩焦黑砖泥&lt;div&gt;压缩焦炉砖泥&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="119" x="2000" y="490" as="geometry" />
         </mxCell>
@@ -286,6 +289,9 @@
         </mxCell>
         <mxCell id="2kDL9RDc8AbcMjuMP2Lo-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="电子管" vertex="1">
           <mxGeometry height="60" width="119" x="1680" y="730" as="geometry" />
+        </mxCell>
+        <mxCell id="Ze34olLxH3gQG4Mn-upq-1" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="焦黑砖" vertex="1">
+          <mxGeometry height="60" width="119" x="2160" y="490" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
