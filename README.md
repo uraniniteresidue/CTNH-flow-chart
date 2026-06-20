@@ -1,0 +1,3 @@
+网页链接：https://draw.io/
+左上角顶部菜单：文件 -> 从...打开-> GitHub...
+<img width="464" height="510" alt="image" src="https://github.com/user-attachments/assets/6bf8de92-1357-4d12-b805-af4a774b7b32" />
