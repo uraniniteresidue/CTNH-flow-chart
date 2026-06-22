@@ -1479,7 +1479,7 @@
         <mxCell id="BimTSkt5NrRpgPhiDMTA-307" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-256" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;dashed=1;" target="BimTSkt5NrRpgPhiDMTA-305">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-256" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;fontStyle=1" value="&lt;span&gt;&lt;font&gt;优质电子电路&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-256" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=20;fontStyle=1" value="&lt;span&gt;&lt;font&gt;优质电子电路&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="6720" y="-830" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-306" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-260" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-305">
@@ -1706,7 +1706,10 @@
             <mxPoint x="2720" y="-870" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-305" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=20;fontStyle=1" value="&lt;span&gt;&lt;font&gt;基础集成电路&lt;/font&gt;&lt;/span&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-365" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-305" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-363">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-305" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#eeeeee;strokeColor=#36393d;fontSize=20;fontStyle=1" value="&lt;span&gt;&lt;font&gt;基础集成电路&lt;/font&gt;&lt;/span&gt;" vertex="1">
           <mxGeometry height="60" width="160" x="8120" y="-830" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-309" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-308" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-305">
@@ -1918,6 +1921,15 @@
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-361" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="锰粉" vertex="1">
           <mxGeometry height="60" width="120" x="8120" y="-70" as="geometry" />
+        </mxCell>
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-366" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-363" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-364">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-363" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;fontSize=20;fontStyle=1" value="&lt;span&gt;&lt;font&gt;优质集成电路&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="8360" y="-830" as="geometry" />
+        </mxCell>
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-364" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fontSize=20;fontStyle=1" value="&lt;span&gt;&lt;font&gt;进阶集成电路&lt;/font&gt;&lt;/span&gt;" vertex="1">
+          <mxGeometry height="60" width="160" x="8560" y="-830" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
