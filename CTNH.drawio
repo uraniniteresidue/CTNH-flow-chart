@@ -1,6 +1,6 @@
 <mxfile host="app.diagrams.net">
   <diagram name="第 1 页" id="wbue6hbnNwZZhj_0dkD_">
-    <mxGraphModel dx="2388" dy="2878" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="#CCFFCC" math="0" shadow="0">
+    <mxGraphModel dx="1437" dy="2267" grid="1" gridSize="10" guides="0" tooltips="1" connect="1" arrows="1" fold="1" page="0" pageScale="1" pageWidth="900" pageHeight="1600" background="#CCFFCC" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -1417,7 +1417,7 @@
             <mxPoint x="7090" y="-499.95" as="targetPoint" />
           </mxGeometry>
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="白铜线圈" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-236" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#ffcc99;strokeColor=#36393d;" value="白铜线圈" vertex="1">
           <mxGeometry height="60" width="120" x="6080" y="-590" as="geometry" />
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-245" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-237" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-244">
@@ -1888,8 +1888,8 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-53" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-325" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8420" y="-360" />
-              <mxPoint x="8420" />
+              <mxPoint x="8400" y="-360" />
+              <mxPoint x="8400" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -1958,19 +1958,32 @@
         <mxCell id="BimTSkt5NrRpgPhiDMTA-339" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="坎达尔合金粉" vertex="1">
           <mxGeometry height="60" width="120" x="7160" y="-510" as="geometry" />
         </mxCell>
-        <mxCell id="BimTSkt5NrRpgPhiDMTA-342" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="坎达尔合金&lt;div&gt;线圈&lt;/div&gt;" vertex="1">
+        <mxCell id="BimTSkt5NrRpgPhiDMTA-342" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#cce5ff;strokeColor=#36393d;" value="坎达尔合金&lt;div&gt;线圈&lt;/div&gt;" vertex="1">
           <mxGeometry height="60" width="120" x="7320" y="-510" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-51" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-345" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8410" y="-80" />
-              <mxPoint x="8410" />
+              <mxPoint x="8390" y="-80" />
+              <mxPoint x="8390" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-56" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-345" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-55">
-          <mxGeometry relative="1" as="geometry" />
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="8420" y="-80" />
+              <mxPoint x="8420" y="-40" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-224" edge="1" parent="1" source="BimTSkt5NrRpgPhiDMTA-345" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9020" y="-80" />
+              <mxPoint x="9020" y="-360" />
+            </Array>
+          </mxGeometry>
         </mxCell>
         <mxCell id="BimTSkt5NrRpgPhiDMTA-345" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="铬粉" vertex="1">
           <mxGeometry height="60" width="120" x="8240" y="-110" as="geometry" />
@@ -2820,13 +2833,21 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-5" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9380" y="-400" />
-              <mxPoint x="9380" y="-520" />
+              <mxPoint x="9370" y="-280" />
+              <mxPoint x="9370" y="-520" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-221" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-3" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-218">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9380" y="-280" />
+              <mxPoint x="9380" y="-360" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-3" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HV组装机" vertex="1">
-          <mxGeometry height="60" width="120" x="9240" y="-430" as="geometry" />
+          <mxGeometry height="60" width="120" x="9240" y="-310" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-31" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-8" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-23">
           <mxGeometry relative="1" as="geometry" />
@@ -2858,13 +2879,13 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-20" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-19" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-1">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9370" y="-480" />
+              <mxPoint x="9370" y="-560" />
               <mxPoint x="9370" y="-520" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-19" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="橡胶&lt;div&gt;铜箔&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="9240" y="-510" as="geometry" />
+          <mxGeometry height="60" width="120" x="9240" y="-590" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-25" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-22" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="BimTSkt5NrRpgPhiDMTA-425">
           <mxGeometry relative="1" as="geometry">
@@ -2985,34 +3006,34 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-52" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-49" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;entryX=0;entryY=0.5;entryDx=0;entryDy=0;" target="YMsbw_6EBQ3rwAE0NTpL-50">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8420" />
-              <mxPoint x="8420" />
+              <mxPoint x="8390" y="40" />
+              <mxPoint x="8390" y="40" />
             </Array>
             <mxPoint x="8390" y="-40" as="targetPoint" />
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-49" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="铁粉&lt;div&gt;锰粉&lt;/div&gt;" vertex="1">
-          <mxGeometry height="60" width="120" x="8240" y="-30" as="geometry" />
+          <mxGeometry height="60" width="120" x="8240" y="10" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-54" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-50" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.75;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="BimTSkt5NrRpgPhiDMTA-355">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="8640" />
+              <mxPoint x="8640" y="40" />
               <mxPoint x="8640" y="-865" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-50" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="不锈钢粉" vertex="1">
-          <mxGeometry height="60" width="120" x="8440" y="-30" as="geometry" />
+          <mxGeometry height="60" width="120" x="8440" y="10" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-58" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-55" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-57">
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-55" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="铬锭" vertex="1">
-          <mxGeometry height="60" width="120" x="8440" y="-110" as="geometry" />
+          <mxGeometry height="60" width="120" x="8440" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-57" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="铬工件" vertex="1">
-          <mxGeometry height="60" width="120" x="8680" y="-110" as="geometry" />
+          <mxGeometry height="60" width="120" x="8680" y="-70" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-61" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-59" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-60">
           <mxGeometry relative="1" as="geometry">
@@ -3247,7 +3268,7 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-114" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-107">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9170" y="-80" />
+              <mxPoint x="9170" />
               <mxPoint x="9170" y="-120" />
             </Array>
           </mxGeometry>
@@ -3255,7 +3276,7 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-118" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-106">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9370" y="-80" />
+              <mxPoint x="9370" />
               <mxPoint x="9370" y="-120" />
             </Array>
           </mxGeometry>
@@ -3263,23 +3284,23 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-119" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-105">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9530" y="-80" />
-              <mxPoint x="9530" y="-120" />
+              <mxPoint x="9540" />
+              <mxPoint x="9540" y="-120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-125" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9970" y="-80" />
-              <mxPoint x="9970" y="-240" />
+              <mxPoint x="9980" />
+              <mxPoint x="9980" y="-240" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-167" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9540" y="-80" />
+              <mxPoint x="9540" />
               <mxPoint x="9540" y="40" />
             </Array>
           </mxGeometry>
@@ -3287,7 +3308,7 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-168" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-147">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9740" y="-80" />
+              <mxPoint x="9740" />
               <mxPoint x="9740" y="40" />
             </Array>
           </mxGeometry>
@@ -3295,13 +3316,13 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-217" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-113" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-104">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9730" y="-80" />
-              <mxPoint x="9730" y="-120" />
+              <mxPoint x="9740" />
+              <mxPoint x="9740" y="-120" />
             </Array>
           </mxGeometry>
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-113" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HV化学反应釜" vertex="1">
-          <mxGeometry height="60" width="120" x="9040" y="-110" as="geometry" />
+          <mxGeometry height="60" width="120" x="9040" y="-30" as="geometry" />
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-127" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-128" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;strokeWidth=4;" target="YMsbw_6EBQ3rwAE0NTpL-130">
           <mxGeometry relative="1" as="geometry" />
@@ -3344,8 +3365,8 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-140" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-139" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-60">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9980" y="-40" />
-              <mxPoint x="9980" y="-240" />
+              <mxPoint x="9970" y="-40" />
+              <mxPoint x="9970" y="-240" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3398,8 +3419,8 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-151" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-150" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-147">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9730" y="-40" />
-              <mxPoint x="9730" y="40" />
+              <mxPoint x="9750" y="-40" />
+              <mxPoint x="9750" y="40" />
             </Array>
             <mxPoint x="9600" as="targetPoint" />
           </mxGeometry>
@@ -3416,8 +3437,8 @@
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-159" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-157" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-148">
           <mxGeometry relative="1" as="geometry">
             <Array as="points">
-              <mxPoint x="9530" y="-40" />
-              <mxPoint x="9530" y="40" />
+              <mxPoint x="9550" y="-40" />
+              <mxPoint x="9550" y="40" />
             </Array>
           </mxGeometry>
         </mxCell>
@@ -3580,6 +3601,37 @@
         </mxCell>
         <mxCell id="YMsbw_6EBQ3rwAE0NTpL-214" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HV能源舱" vertex="1">
           <mxGeometry height="60" width="120" x="10200" y="-430" as="geometry" />
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-218" parent="1" style="rounded=1;whiteSpace=wrap;html=1;fillColor=#FFCCFF;strokeColor=#FF33FF;fontSize=12;fontStyle=0;" value="镍铬合金线圈" vertex="1">
+          <mxGeometry height="60" width="120" x="9400" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-220" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-219" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-218">
+          <mxGeometry relative="1" as="geometry" />
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-219" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="镍铬合金粉" vertex="1">
+          <mxGeometry height="60" width="120" x="9240" y="-390" as="geometry" />
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-226" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-222" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9180" y="-320" />
+              <mxPoint x="9180" y="-360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-222" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="HV搅拌机" vertex="1">
+          <mxGeometry height="60" width="120" x="9040" y="-350" as="geometry" />
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-225" edge="1" parent="1" source="YMsbw_6EBQ3rwAE0NTpL-223" style="edgeStyle=orthogonalEdgeStyle;shape=connector;rounded=1;jumpStyle=none;orthogonalLoop=1;jettySize=auto;html=1;exitX=1;exitY=0.5;exitDx=0;exitDy=0;entryX=0;entryY=0.5;entryDx=0;entryDy=0;strokeColor=default;align=center;verticalAlign=middle;fontFamily=Helvetica;fontSize=11;fontColor=default;labelBackgroundColor=default;endArrow=classic;" target="YMsbw_6EBQ3rwAE0NTpL-219">
+          <mxGeometry relative="1" as="geometry">
+            <Array as="points">
+              <mxPoint x="9180" y="-400" />
+              <mxPoint x="9180" y="-360" />
+            </Array>
+          </mxGeometry>
+        </mxCell>
+        <mxCell id="YMsbw_6EBQ3rwAE0NTpL-223" parent="1" style="rounded=1;whiteSpace=wrap;html=1;" value="镍粉" vertex="1">
+          <mxGeometry height="60" width="120" x="9040" y="-430" as="geometry" />
         </mxCell>
       </root>
     </mxGraphModel>
